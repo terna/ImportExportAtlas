@@ -16,3 +16,11 @@ address
 [https://dataverse.harvard.edu/api/access/datafile/10534172]()
 
 file hs12_country_country_product_year_2.dta
+
+--
+
+country codes
+
+[https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3]()
+
+[https://en.wikipedia.org/wiki/ISO_3166-1_numeric]()
